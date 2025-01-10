@@ -19,6 +19,8 @@ Usage is really simple:
 - Don't enter  more than two values.
 - Don't place character in already occupied cell.
 
+![Example gameplay](/assets/gameplay.png)
+
 Possible moves: 
 
 - `0 0`
